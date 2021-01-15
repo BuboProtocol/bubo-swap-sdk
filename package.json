@@ -1,16 +1,16 @@
 {
-  "name": "@pancakeswap-libs/sdk",
+  "name": "@bubo/bubo-swap-sdk",
   "license": "MIT",
   "version": "1.0.1",
-  "description": "🛠 An SDK for building applications on top of pancakeswap.",
+  "description": "🛠 An SDK for building applications on top of bubo.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/pancakeswap/pancakeswap-sdk.git",
+  "repository": "https://github.com/BuboProtocol/bubo-swap-sdk.git",
   "keywords": [
-    "pancakeswap",
+    "BuboProtocol",
     "ethereum"
   ],
   "module": "dist/sdk.esm.js",
